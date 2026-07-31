@@ -145,15 +145,24 @@ Example fields:
 
 ## Flow Design
 
-(Screenshots/<img width="1362" height="714" alt="Complete Power Automate flow" src="https://github.com/user-attachments/assets/243dde58-b3c8-4f7d-bb25-904d30aea10f" />
+<img width="1362" height="714" alt="Complete Power Automate flow" src="https://github.com/user-attachments/assets/243dde58-b3c8-4f7d-bb25-904d30aea10f" />
 
 ## Routing Rules
 
-(Screenshot<img width="1365" height="767" alt="RoutingRules SharePoint list" src="https://github.com/user-attachments/assets/15b5984b-9229-486b-99bb-a5ef7365688c" />
+<img width="1365" height="767" alt="RoutingRules SharePoint list" src="https://github.com/user-attachments/assets/15b5984b-9229-486b-99bb-a5ef7365688c" />
 
 ## Audit Log
 
-(Screenshots/audi<img width="1365" height="716" alt="EmailAuditLog SharePoint list" src="https://github.com/user-attachments/assets/1e350cae-25b2-4c30-82f2-e8fb849e2de5" />
+<img width="1365" height="716" alt="EmailAuditLog SharePoint list" src="https://github.com/user-attachments/assets/1e350cae-25b2-4c30-82f2-e8fb849e2de5" />
+
+## Flow Run
+
+<img width="1363" height="717" alt="Successful Flow Run" src="https://github.com/user-attachments/assets/cbaec957-20b6-4272-abea-fc0ccc6ec29c" />
+
+## Forwarded Email
+
+<img width="1365" height="719" alt="Forwarded Email  received" src="https://github.com/user-attachments/assets/9c511876-dd89-49cb-9775-086c387bdaa9" />
+
 
 ---
 
