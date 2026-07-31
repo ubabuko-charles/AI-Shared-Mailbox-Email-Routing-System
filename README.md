@@ -84,17 +84,17 @@ Built using:
 ---
 
 # Architecture
-Incoming Email
+- Incoming Email
       ↓
-Power Automate Flow 
+- Power Automate Flow 
       ↓
-Email Processing    
+- Email Processing    
       ↓
-SharePoint Routing Rules
+- SharePoint Routing Rules
       ↓
-Forward Email
+- Forward Email
       ↓
-Audit Logging
+- Audit Logging
 
 
 ---
