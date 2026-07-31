@@ -145,16 +145,16 @@ Example fields:
 
 ## Flow Design
 
-![Flow](Screenshots/<img width="1362" height="714" alt="Complete Power Automate flow" src="https://github.com/user-attachments/assets/243dde58-b3c8-4f7d-bb25-904d30aea10f" />.png)
+(Screenshots/<img width="1362" height="714" alt="Complete Power Automate flow" src="https://github.com/user-attachments/assets/243dde58-b3c8-4f7d-bb25-904d30aea10f" />.png)
 
 ## Routing Rules
 
-![Routing Rules](Screenshot<img width="1365" height="767" alt="RoutingRules SharePoint list" src="https://github.com/user-attachments/assets/15b5984b-9229-486b-99bb-a5ef7365688c" />
+(Screenshot<img width="1365" height="767" alt="RoutingRules SharePoint list" src="https://github.com/user-attachments/assets/15b5984b-9229-486b-99bb-a5ef7365688c" />
 ots/routing-rules.png)
 
 ## Audit Log
 
-![Audit Log](Screenshots/audi<img width="1365" height="716" alt="EmailAuditLog SharePoint list" src="https://github.com/user-attachments/assets/1e350cae-25b2-4c30-82f2-e8fb849e2de5" />
+(Screenshots/audi<img width="1365" height="716" alt="EmailAuditLog SharePoint list" src="https://github.com/user-attachments/assets/1e350cae-25b2-4c30-82f2-e8fb849e2de5" />
 t-log.png)
 
 ---
