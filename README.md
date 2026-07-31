@@ -84,9 +84,9 @@ Built using:
 ---
 
 # Architecture
-- Incoming Email
+ #Incoming Email
       ↓
-- Power Automate Flow 
+#Power Automate Flow 
       ↓
 - Email Processing    
       ↓
